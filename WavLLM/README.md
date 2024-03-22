@@ -1,4 +1,11 @@
 # WavLLM
+
+## Model
+| Model |  Model_path |
+| :-----: | :-----: |
+| WavLLM | [Azure Storage](https://valle.blob.core.windows.net/share/wavllm/final.pt?sv=2021-10-04&st=2024-03-22T11%3A04%3A00Z&se=2025-05-23T11%3A04%3A00Z&sr=b&sp=r&sig=K77BMU5ZMqGnwYrTUsVI26fFQB53rneekGplm4liZ8M%3D)|
+
+
 ## Setup
 
 ```bash

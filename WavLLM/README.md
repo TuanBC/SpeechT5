@@ -27,3 +27,4 @@ cp -r wavllm fairseq/examples
 cd fairseq
 bash examples/wavllm/scripts/inference_sft.sh $model_path $data_name
 ```
+We provided examples of each task in [`test_data`](wavllm/test_data)

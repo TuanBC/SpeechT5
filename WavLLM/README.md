@@ -32,4 +32,4 @@ We provided examples of each task in [`test_data`](wavllm/test_data)
 ## Examples
 | Task |  Audio |  Transcript | Prompt |  Output |
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-| ASR | [`audio`](wavllm/test_data) | [`audio`](wavllm/test_data) | [`audio`](wavllm/test_data) | [`audio`](wavllm/test_data) |
+| ASR | [`audio`](WavLLM/wavllm/test_data/audio/asr.flac) | he hoped there would be stew for dinner turnips and carrots and bruised potatoes and fat mutton pieces to be ladled out in thick peppered flour fattened sauce | Based on the attached audio, generate a comprehensive text transcription of the spoken content. |  |

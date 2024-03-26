@@ -31,7 +31,7 @@ We provided examples of each task in [`test_data`](wavllm/test_data)
 ## Examples
 | Task |  Audio | Prompt |  Target |  Output |
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-| ASR | [`audio`](wavllm/test_data/audio/asr.flac) | Based on the attached audio, generate a comprehensive text transcription of the spoken content. | he hoped there would be stew for dinner turnips and carrots and bruised potatoes and fat mutton pieces to be ladled out in thick peppered flour fattened sauce |   |
+| ASR | [`audio`](wavllm/test_data/audio/asr.flac) | Based on the attached audio, generate a comprehensive text transcription of the spoken content. | he hoped there would be stew for dinner turnips and carrots and bruised potatoes and fat mutton pieces to be ladled out in thick peppered flour fattened sauce | he hoped there would be stew for dinner turnips and carrots and browned potatoes and fat mutton pieces to be ladled out in thick peppered flour fattened sauce  |
 | SV | [`audio`](wavllm/test_data/audio/sv.wav) | Is there only one speaker in the audio clip? | Yes |   |
 | ST | [`audio`](wavllm/test_data/audio/st.flac) | Translate the audio clip into German. | Sie wird schon in Ordnung sein. |   |
 | ER | [`audio`](wavllm/test_data/audio/emo.wav) | Can you describe the emotional condition of the speaker in the provided audio clip? | sad |   |

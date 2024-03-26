@@ -28,3 +28,8 @@ cd fairseq
 bash examples/wavllm/scripts/inference_sft.sh $model_path $data_name
 ```
 We provided examples of each task in [`test_data`](wavllm/test_data)
+
+## Examples
+| Task |  Audio |  Transcript | Prompt |  Output |
+| :-----: | :-----: | :-----: | :-----: | :-----: |
+| ASR | [`audio`](wavllm/test_data) | [`audio`](wavllm/test_data) | [`audio`](wavllm/test_data) | [`audio`](wavllm/test_data) |

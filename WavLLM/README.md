@@ -6,9 +6,9 @@
 | WavLLM | [Azure Storage](https://valle.blob.core.windows.net/share/wavllm/final.pt?sv=2021-10-04&st=2024-03-22T11%3A04%3A00Z&se=2025-05-23T11%3A04%3A00Z&sr=b&sp=r&sig=K77BMU5ZMqGnwYrTUsVI26fFQB53rneekGplm4liZ8M%3D)|
 
 ## Gaokao Audio
-| Task |  Audio_path | tsv_path |
-| :-----: | :-----: | :-----: |
-| Gaokao (SQA) | [Azure Storage](https://valle.blob.core.windows.net/share/wavllm/gaokao_audio.zip?sv=2021-10-04&st=2024-03-27T03%3A53%3A27Z&se=2026-02-28T03%3A53%3A00Z&sr=b&sp=r&sig=veVrZLzFSCfiqiTsw1vxgMY2DkYbqz0Wgg%2BY5qHxMP0%3D) | [`tsv_path`](wavllm/test_data/gaokao.tsv) |
+| Task |  Audio_path | tsv_path | transcript_path |
+| :-----: | :-----: | :-----: | :-----: |
+| Gaokao (SQA) | [Azure Storage](https://valle.blob.core.windows.net/share/wavllm/gaokao_audio.zip?sv=2021-10-04&st=2024-03-27T03%3A53%3A27Z&se=2026-02-28T03%3A53%3A00Z&sr=b&sp=r&sig=veVrZLzFSCfiqiTsw1vxgMY2DkYbqz0Wgg%2BY5qHxMP0%3D) | [`tsv_path`](wavllm/test_data/gaokao.tsv) | [Azure Storage](https://valle.blob.core.windows.net/share/wavllm/gaokao_text.zip?sv=2021-10-04&st=2024-03-28T13%3A16%3A37Z&se=2026-02-28T13%3A16%3A00Z&sr=b&sp=r&sig=k5ze1mnkJTI0CeYVvzQEIjAExATCIkFZqHlj2yoc%2FKU%3D) |
 
 ## Setup
 
